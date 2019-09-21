@@ -16,10 +16,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITETITLE
-email: "EMAILADDRESS"
+title: Swan Media
+email: "peter@m0swn.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  Peter Barnes
+  Swan Media Ltd
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "pe5er/REPOSITORYNAME"
+repository: "pe5er/swanmedia"
 
 # Build settings
 plugins:
@@ -36,6 +36,6 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - PAGENAME.md
-  - PAGENAME2.md
+  - about.md
+  - contact.md
 
