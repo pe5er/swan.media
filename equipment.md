@@ -30,6 +30,7 @@ We have a wide range of professional equipment at our disposal, allowing us to b
 * Panasonic DMW-XLR1 XLR Microphone Adapter
 * Stagg 30cm XLR Cable
 * Rode NTG4+ Shotgun Microphone
+* Rode WS6 Windshield
 * Sony MDR-7506 Studio Headphones
 * Rode SmartLav Plus Lavalier Microphone
 * Rode SC3 Adapter
