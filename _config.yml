@@ -37,5 +37,6 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - about.md
+  - clients.md
   - contact.md
 
