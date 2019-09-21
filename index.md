@@ -4,4 +4,8 @@ draft: false
 title: Home
 ---
 
-Welcome to my website. Check out the links at the top of the page.
+# Welcome to Swan Media Ltd
+
+We are a video production company based in Swansea, specialising in corporate promotional videos.
+
+Let us take your project from concept to completion
