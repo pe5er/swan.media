@@ -4,7 +4,7 @@ draft: false
 title: Home
 ---
 
-# Welcome to Swan Media Ltd
+## Welcome to Swan Media Ltd
 
 We are a video production company based in Swansea, specialising in corporate promotional videos.
 
