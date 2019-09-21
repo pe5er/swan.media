@@ -6,7 +6,7 @@ We have a wide range of professional equipment at our disposal, allowing us to b
 
 Our main camera (Panasonic GH5) allows us to record up to 4K 60fps 4:2:2 10bit in DNXHD HQX format. We can record audio at up to 24bit WAV.
 
-![GH5 Rig](/media/equipment/rig1.jpg "GH5 Rig")
+![GH5 Rig](swanmedia/media/equipment/rig1.jpg "GH5 Rig")
 
 
 ## Cameras
