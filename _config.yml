@@ -17,7 +17,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Swan Media
-email: "peter@m0swn.uk"
+email: "peter@swan.media"
 description: >- # this means to ignore newlines until "baseurl:"
   Swan Media Ltd
 #baseurl: "" # the subpath of your site, e.g. /blog
