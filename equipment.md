@@ -58,3 +58,5 @@ Our main camera (Panasonic GH5) allows us to record up to 4K 60fps 4:2:2 10bit i
 * 2x 128GB Sony M Series SD Cards
 * 500gb Atomos Master Caddy 4K
 * SanDisk Extreme Pro UHS-II USB-C Card Reader
+
+To request a quote for equipment hire, please [contact us](http://swan.media/contact)
