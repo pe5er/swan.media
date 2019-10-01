@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "pe5er/swanmedia"
+repository: "pe5er/swan.media"
 
 # Build settings
 plugins:
