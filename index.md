@@ -12,5 +12,6 @@ We are a Swansea based video production company offering proffessional video ser
 
 We use professional 4K mirrorless cameras to produce our videos. Each video is carefully edited to our client's specifications to achieve a high quality product that they are happy with.
 
+Promotional videos, testimonials, social videos are more: whatever your needs, get in touch with us and we'll work together to meet them.
 
 <a style="background-color: #ff6600 !important;" class="btn btn-primary" href="/contact" role="button">Get in Touch</a>
