@@ -6,8 +6,6 @@ title: Home
 
 ## Welcome to Swan Media
 
-We are a video production company based in Swansea, specialising in corporate promotional videos.
-
 We are a Swansea based video production company offering proffessional video services all over the UK. We specialise in corporate video production, and have experience creating promotional materials for  large corporations.
 
 We use professional 4K mirrorless cameras to produce our videos. Each video is carefully edited to our client's specifications to achieve a high quality product that they are happy with.
