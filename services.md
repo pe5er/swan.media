@@ -24,4 +24,4 @@ As part of our process, we offer unlimited revisions over the post-production wi
 
 ## Graphic Design
 
-We have experience working with vector graphic applications to create proffessional looking logos and graphics.
+We have experience working with vector graphic applications to create professional looking logos and graphics.
