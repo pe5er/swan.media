@@ -8,7 +8,7 @@ title: Home
 
 We are a Swansea based video production company offering professional video services all over the UK. We specialise in corporate video production, and have experience creating promotional materials for  large corporations.
 
-We use professional 4K mirrorless cameras to produce our videos. Each video is carefully edited to our client's specifications to achieve a high quality product that they are happy with.
+We use professional 6K cinema cameras to produce our videos. Each video is carefully edited to our client's specifications to achieve a high quality product that they are happy with.
 
 Promotional videos, testimonials, social videos are more: whatever your needs, get in touch with us and we'll work together to meet them.
 
