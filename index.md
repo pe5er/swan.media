@@ -19,4 +19,7 @@ Promotional videos, conference coverage, testimonials, social videos are more: w
 
 <a style="background-color: #ff6600 !important;" class="btn btn-primary" href="/contact" role="button">Get in Touch</a>
 
-![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill")
+|                                                                   |                                                                     |
+|-------------------------------------------------------------------|---------------------------------------------------------------------|
+| ![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill") | ![Camera filming burn test](/media/equipment/cam-3.jpg "Camera filming burn test") |
+| ![Camera in square](/media/equipment/cam-4.jpg "Camera in square") | ![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill") |
