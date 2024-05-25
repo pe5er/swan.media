@@ -17,7 +17,7 @@ We offer a complete video production package, from concept through to final deli
   * Polished Draft: once the rough draft has been approved, we add supporting elements such as graphics and music, and implement colour correction, grading and sound design
   * Final Delivery: once the polished draft has been approved, we will do any final touch ups and then deliver you a high-quality output file. We can help with uploading the video as well!
   
-### Unlimited Revisions
+## Unlimited Revisions
 
 As part of our process, we offer unlimited revisions over the post-production window. This allows our clients to ensure that they are completely happy with each stage of production.
 
