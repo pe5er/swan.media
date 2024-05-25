@@ -1,15 +1,20 @@
 ---
-date: 2019-09-08
+date: 2024-05-25
 draft: false
 title: Home
 ---
 
 ## Welcome to Swan Media
 
-We are a Swansea based video production company offering professional video services all over the UK. We specialise in corporate video production, and have experience creating promotional materials for  large corporations.
+Swan Media is a Swansea based video production company offering professional video services all over the UK. We specialise in corporate video production, including:
 
-We use professional 6K cinema cameras to produce our videos. Each video is carefully edited to our client's specifications to achieve a high quality product that they are happy with.
+* Conference talk recording
+* Conference live streaming
+* Promotional videos
+* Educational videos
 
-Promotional videos, testimonials, social videos are more: whatever your needs, get in touch with us and we'll work together to meet them.
+We use professional quality 6K cameras to produce our videos, which are carefully edited to meet our client's specifications. The full production workflow is done internally, allowing us to work at a fast turnaround when requested.
+
+Promotional videos, conference coverage, testimonials, social videos are more: whatever your needs, get in touch with us and we'll work together to meet them.
 
 <a style="background-color: #ff6600 !important;" class="btn btn-primary" href="/contact" role="button">Get in Touch</a>
