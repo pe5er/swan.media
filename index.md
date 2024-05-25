@@ -21,5 +21,5 @@ Promotional videos, conference coverage, testimonials, social videos are more: w
 
 |                                                                   |                                                                     |
 |-------------------------------------------------------------------|---------------------------------------------------------------------|
-| ![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill") | ![Camera filming burn test](/media/equipment/cam-3.jpg "Camera filming burn test") |
-| ![Camera in square](/media/equipment/cam-4.jpg "Camera in square") | ![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill") |
+| ![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill") | ![Camera in square](/media/equipment/cam-4.jpg "Camera in square") |
+| ![Camera filming burn test](/media/equipment/cam-3.jpg "Camera filming burn test") | |
