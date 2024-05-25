@@ -18,3 +18,5 @@ We use professional quality 6K cameras to produce our videos, which are carefull
 Promotional videos, conference coverage, testimonials, social videos are more: whatever your needs, get in touch with us and we'll work together to meet them.
 
 <a style="background-color: #ff6600 !important;" class="btn btn-primary" href="/contact" role="button">Get in Touch</a>
+
+![Camera on Hill](/media/equipment/cam-on-hill.jpg "Camera on hill")
